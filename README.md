@@ -1,6 +1,4 @@
-# Computer Vision Unit II Programming Assignment
-
-Name: <Your Full Name>
-Enrollment Number: <Your Enrollment Number>
-Class/Section: <BCA 5A or BCA 5B>
+Name: Rahul Chauhan
+Enrollment Number: 2402309091
+Class/Section: BCA Sec B
 Programs Completed: 15/15
